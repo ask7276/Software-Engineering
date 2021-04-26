@@ -9,3 +9,6 @@ have been much cheaper in another eCommerce site. Sometimes these eCommerce plat
 To not be a fool next time, you can do extensive search on
 your product prices and also search for valid coupon codes. Doing this can save lots of money in the end. In this project, you have to develop a software solution that can help a shopper find the best deals
 while buying a product from the eCommerce website.
+
+In this course we used User-Centric Design Approach and performed tasks at various stages of Development Cycle. 
+
