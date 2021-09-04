@@ -12,9 +12,13 @@ while buying a product from the eCommerce website.
 
 In this course we used User-Centric Design Approach and performed various stages of Development Cycle. 
 
+
+
 Software Design Life Cycle can be diagrammatically expressed in the following way:
 
-![Software Development Life Cycle](https://github.com/ask7276/Software-Engineering/blob/master/Images/sdlc.png)
+![Software Development Life Cycle](https://github.com/ask7276/Software-Engineering/blob/master/Images/SDLC.png)
+
+
 
 General introduction to design patterns can be found here - [Introduction to Design Patterns](https://github.com/ask7276/Software-Engineering/blob/master/Software%20Development%20Life%20Cycle/Introduction%20to%20Design%20Patterns.pdf)
 
