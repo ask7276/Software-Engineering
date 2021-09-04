@@ -14,8 +14,15 @@ In this course we used User-Centric Design Approach and performed various stages
 
 Software Design Life Cycle can be diagrammatically expressed in the following way:
 
-![Software Development Life Cycle]()
+![Software Development Life Cycle](https://github.com/ask7276/Software-Engineering/blob/master/Images/sdlc.png)
+
+General introduction to design patterns can be found here - [Introduction to Design Patterns](https://github.com/ask7276/Software-Engineering/blob/master/Software%20Development%20Life%20Cycle/Introduction%20to%20Design%20Patterns.pdf)
 
 Various Stages Performed are as follows:
 
+* [Software Requirement Specification - Purpose, Functional Requirements and Non-Functional Requirements](https://github.com/ask7276/Software-Engineering/blob/master/Software%20Development%20Life%20Cycle/Software%20Requirements%20Specification%20(SRS).pdf)
+* [Design, Design Justification and Usability Document](https://github.com/ask7276/Software-Engineering/blob/master/Software%20Development%20Life%20Cycle/Design%2C%20Design%20Justification%20and%20Usability%20Document.pdf)
+* [Medium Fidelity Prototype](https://github.com/ask7276/Software-Engineering/blob/master/Software%20Development%20Life%20Cycle/Prototype.pdf)
+* [Early Evaluation (Prototype Evaluation)](https://github.com/ask7276/Software-Engineering/blob/master/Software%20Development%20Life%20Cycle/Early%20Evaluation.pdf)
+* [Empirical Testing](https://github.com/ask7276/Software-Engineering/blob/master/Software%20Development%20Life%20Cycle/Empirical%20Testing.pdf)
 
